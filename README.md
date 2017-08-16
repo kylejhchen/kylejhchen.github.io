@@ -1,2 +1,2 @@
 # kylejhchen.github.io
-my website
+[kylejhchen.github.io] (https://kylejhchen.github.io/)
